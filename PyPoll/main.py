@@ -1,6 +1,7 @@
 # Let's import the packages needed
 # os will allow us to create file paths accross operating systems
 # csv is for reading CSV files
+
 import os
 import csv
 
